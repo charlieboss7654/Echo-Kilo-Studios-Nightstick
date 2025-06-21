@@ -25,3 +25,6 @@ Installation Guide:
 6. Start the resource and you are good to go - Enjoy!
 
 **IMPORTANT - DO NOT CHANGE THE NAME OF THE FOLDER ELSE THE SCRIPT WILL NOT WORK!**
+
+
+**Support can be found her - https://discord.gg/busQ9w6dqa**
