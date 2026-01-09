@@ -8,7 +8,7 @@ This is a Echo Kilo Studios 'Better Nighstick' scipt!
 
 Features:
 Smashing of car windows and dragging people out,
-custom ASP nightstick,
+custom ASP nightstick (credit to zombit),
 Sound effects when drawing and returning the nighstick,
 
 THIS SCRIPT WAS MADE BY ECHO KILO STUDIOS
